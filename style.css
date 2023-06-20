@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 82px;
+	background-color:red;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    height: 40px;
+}
+
+abbr {
+    text-decoration: none !important;
+}
+
+td {
+    height: 15px;
+    width: 50px;
+}
+
+table {
+    margin: 30px;
+}
+body{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(223,145,238,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:blue;
+    color: white;
+    text-align: left;
+}
+.button {
+  background-color: #1affc6;
+  border: none;
+  color: white;
+
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {background-color: #1affc6; color:black;}
+.button2 {background-color: #df9fe1; color:black;}
+.button3 {background-color: #99d3ee; color: black;}
+.button4 {background-color: #fcf389; color: black;}
+.button5 {background-color: #486a6a; color:white;}
+.button6 {background-color: #c6980e; color:black;}
+.button7 {background-color: #e8e3ff; color:black;}
+.button8 {background-color: #006bb3; color:black;}
+.button9 {background-color: #b30000; color:white;} 
+.button10 {background-color: #5c8a8a; color:black;}
